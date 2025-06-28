@@ -5,4 +5,6 @@
 
 3. The program processes each video frame to detect and track players. Outputs is an annotated video (output.mp4). 
 
-4. This solution is ideal for analyzing player activity in single-view sports videos. While effective, it faces limitations such as hardcoded thresholds and sensitivity to occlusions. 
+4. This solution is ideal for analyzing player activity in single-view sports videos. While effective, it faces limitations such as hardcoded thresholds and sensitivity to occlusions.
+   ![image](https://github.com/user-attachments/assets/4821fd70-756d-495a-aaef-f0c94011ef67)
+
